@@ -32,7 +32,7 @@ This repository contains a Python script (`main.py`) to parse resume content int
 
 ```json
 {
-  "name": "User's Name",  // Replace with actual name if available in resume
+  "name": "Abhinav Raja Raizada", 
   "education": [
     {
       "degree": "B.TECH in Computer Science and Engineering",
